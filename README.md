@@ -20,6 +20,7 @@
 ## sampleapp1
 
 An SAP Fiori application.
+Goed ze...
 
 ### Starting the generated app
 
