@@ -1,0 +1,19 @@
+[33mcommit 18d4bbe3aa509c7aefa7351392fc8bd76d217e28[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31moriginal/main[m[33m)[m
+Author: Alexander Houthoofd <alexander.houthoofd@kbc.be>
+Date:   Wed Nov 13 08:31:26 2024 +0000
+
+    https://github.com/JE35474/sampleapp1.git
+
+[1mdiff --git a/webapp/view/View1.view.xml b/webapp/view/View1.view.xml[m
+[1mindex 6ef8962..216f4ce 100644[m
+[1m--- a/webapp/view/View1.view.xml[m
+[1m+++ b/webapp/view/View1.view.xml[m
+[36m@@ -1,6 +1,6 @@[m
+ <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="sap.btp.sampleapp1.controller.View1" displayBlock="true">[m
+     <Page id="page" title="{i18n>title}">[m
+[31m-        <content><Button xmlns="sap.m" text="Hello World" id="button0"/>[m
+[32m+[m[32m        <content><Button xmlns="sap.m" text="Hello World update" id="button0"/>[m
+         </content>[m
+     </Page>[m
+ </mvc:View>[m
+\ No newline at end of file[m
